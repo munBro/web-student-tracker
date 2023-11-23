@@ -8,6 +8,8 @@ web-student-tracker is the small 'Dynamic web project' where I created form.html
 
 to run code setup the tomcat server in eclipes and download the project and run the sql_setup.sql(provided in project) file on workbench then run the project on eclipes as a server.
 
+I provided Screen-Shots of my projects 
+
 I made this project with the help of Java,Tomcat Server, MySQL workbench and MySQL.
 
 To make this project I followed some steps..............
